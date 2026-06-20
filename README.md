@@ -197,7 +197,7 @@ Operations performed:
 
 ### Complete Version History
 
-![History](screenshots/03_initial_history.png)
+![History](screenshots/03_history.png)
 
 ### Salary Update
 
