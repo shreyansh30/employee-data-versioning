@@ -201,7 +201,7 @@ Operations performed:
 
 ### Salary Update
 
-![Salary Update](screenshots/04_salary_update.png)
+![Salary Update](screenshots/04_Salary_update.png)
 
 ### Department Transfer
 
